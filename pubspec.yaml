@@ -1,4 +1,3 @@
-cat > pubspec.yaml << 'EOL'
 name: qr_image_converter
 description: A Flutter app to convert images to QR codes and back
 
